@@ -1,0 +1,11 @@
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Ognjen_Lubarda_Projekat.PocetniEkran.resources
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Ognjen_Lubarda_Projekat.Properties.Resources.resources
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Dots_and_Boxes.csproj.GenerateResource.cache
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Dots_and_Boxes.csproj.CoreCompileInputs.cache
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Dots_and_Boxes.csprojAssemblyReference.cache
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Ognjen_Lubarda_Projekat.GlavniEkran.resources
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\bin\Debug\Dots&Boxes.exe.config
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\bin\Debug\Dots&Boxes.exe
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\bin\Debug\Dots&Boxes.pdb
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Dots&Boxes.exe
+C:\Users\lube\Desktop\Dots_And_Boxes\Ognjen_Lubarda_Projekat\obj\Debug\Dots&Boxes.pdb
